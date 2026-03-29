@@ -21,7 +21,7 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/vidhan-malik-b29a4b287">
+<a href="https://www.linkedin.com/in/vidhanmalik/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:vidhanmalik14@gmail.com">
@@ -343,7 +343,7 @@ A fully functional desktop quiz app with real-time scoring, interactive GUI, and
 
 > *"Data is the new oil — but only if you know how to refine it."*
 
-<a href="https://www.linkedin.com/in/vidhan-malik-b29a4b287">
+<a href="https://www.linkedin.com/in/vidhanmalik/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:vidhanmalik14@gmail.com">
