@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1f2d,70:1a3a4a,100:00b4d8&height=200&section=header&text=Vidhan%20Malik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Dev%20%7C%20AI%20Explorer&descSize=18&descAlignY=60&descColor=90e0ef" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:caf0f8,30:90e0ef,70:00b4d8,100:0077b6&height=200&section=header&text=Vidhan%20Malik&fontSize=60&fontColor=001f3d&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Dev%20%7C%20AI%20Explorer&descSize=18&descAlignY=60&descColor=0077b6" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1f2d,70:1a3a4a,100:00b4d8&height=200&section=header&text=Vidhan%20Malik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Dev%20%7C%20AI%20Explorer&descSize=18&descAlignY=60&descColor=90e0ef" width="100%"/>
-</picture>
+<!-- HERO BANNER — capsule-render waving header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1f2d,100:00b4d8&height=160&section=header" width="100%"/>
+
+<!-- NAME — readme-typing-svg for guaranteed visibility -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1&pause=999999&color=00B4D8&center=true&vCenter=true&width=600&height=70&lines=Vidhan+Malik" alt="Vidhan Malik"/>
+
+<!-- SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1&pause=999999&color=90E0EF&center=true&vCenter=true&width=600&height=30&lines=Data+Analyst+%7C+Python+Dev+%7C+AI+Explorer" alt="subtitle"/>
 
 <!-- TYPING ANIMATION -->
 <picture>
